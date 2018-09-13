@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tezt101</string>
+    <string name="refresh_string">Refresh</string>
+    <string name="about_string">About</string>
+    <string name="aboutMesg_string">
+        <p><b>Event Guide 0.1(Beta)</b> Your way to stay informed about departmental activities and events.</p>
+    </string>
+    <string name="aboutMesg2_string">
+        <p>Developed by <b>Trigomega.</b></p>
+    </string>
+
+    <string name="splash_app_name">
+        <p><b>Event</b>Guide</p>
+    </string>
+
+    <string name="force_update_msg">This application is in beta testing. Please update this app to new version to further use it.</string>
+
+</resources>

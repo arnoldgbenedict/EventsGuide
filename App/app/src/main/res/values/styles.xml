@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="AppIntroTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+    <style name="AppDetailTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorAlertGreen</item>
+    </style>
+    <style name="AppAboutTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">#546e7a</item>
+        <item name="android:colorPrimaryDark">#29434e</item>
+    </style>
+
+    <style name="CustomTextAppearance" parent="TextAppearance.MaterialCalendarWidget.Date">
+        <item name="android:textColor">@color/custom_calendar</item>
+    </style>
+
+    <style name="CalendarMonthAppearance" parent="TextAppearance.MaterialCalendarWidget.Header">
+        <item name="android:textColor">@color/colorCalendarMonth</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="CalendarWeekAppearance" parent="TextAppearance.MaterialCalendarWidget.Header">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

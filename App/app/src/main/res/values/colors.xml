@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0091ea</color>
+    <color name="colorPrimaryDark">#0064b7</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorCalendarMonth">#616161</color>
+    <color name="colorAlertGreen">#03a081</color>
+    <color name="colorAlertGreenText">#b1f9eb</color>
+    <color name="colorActivityGreen">#03a081</color>
+
+    <color name="colorGotoTodayRoundButton">#0091ea</color>
+
+    <color name="colorListDone">#c1c1c1</color>
+    <color name="colorListToday">#0064b7</color>
+    <color name="colorListUpcoming">#90caf9</color>
+
+</resources>
